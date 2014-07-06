@@ -6,4 +6,5 @@ EasyBlot scans a folder and searches for all files that meet set specifications.
 ## Versions
 
 *2014-07-03* Demo Video added
+
 *2014-07-02* 0.1 EasyBlot can crop, annotate and save the blot.
